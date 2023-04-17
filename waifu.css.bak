@@ -39,10 +39,10 @@
 
 #waifu-tips {
     animation: shake 50s ease-in-out 5s infinite;
-    /*     background-color: rgba(236, 217, 188, 0.5);
+/*     background-color: rgba(236, 217, 188, 0.5);
     border: 1px solid rgba(224, 186, 140, 0.62); */
-    background-color: rgba(181, 72, 110, 0.2);
-    border: 1px solid rgba(255, 128, 172, 1);
+    background-color: rgba(33, 158, 116, 0.2);
+    border: 1px solid rgba(46, 223, 163, 1);
     border-radius: 12px;
     box-shadow: 0 3px 15px 2px rgba(191, 158, 118, 0.2);
     font-size: 14px;
@@ -65,7 +65,7 @@
 }
 
 #waifu-tips span {
-    color: #ff80ac;
+    color: #0099cc;
 }
 
 #live2d {
@@ -100,14 +100,14 @@
 }
 
 #waifu-tool svg {
-    fill: #b5486e;
+    fill: #176e50;
     cursor: pointer;
     height: 25px;
     transition: fill 0.3s;
 }
 
 #waifu-tool svg:hover {
-    fill: #ff80ac; /* #34495e */
+    fill: #2edfa3; /* #34495e */
 }
 
 @keyframes shake {
