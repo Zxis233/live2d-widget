@@ -19,7 +19,7 @@ class Model {
     }
 
     async loadModelList() {
-        const response = await fetch(`${this.cdnPath}model_list.json`);
+        const response = await fetch(`${this.apiPath}model_list.json`);
         this.modelList = await response.json();
     }
 
