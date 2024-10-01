@@ -45,6 +45,9 @@
 		"selector": ".menu-item-search a",
 		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
 	}, {
+		"selector": "#search-button",
+		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
+	}, {
 		"selector": ".menu-item a",
 		"text": ["快看看这里都有什么呢？"]
 	}, {
@@ -77,6 +80,9 @@
 	}, {
 		"selector": "a[href^='mailto']",
 		"text": ["邮件我会及时回复的！", "点击就可以发送邮件啦～"]
+	}, {
+		"selector": "a[href^='https://github.com/Zxis233']",
+		"text": ["来看看我的项目吧～", "这是我的GitHub主页！"]
 	}, {
 		"selector": "a[href^='/tags/']",
 		"text": ["要去看看 <span>{text}</span> 标签么？", "点它可以查看此标签下的所有文章哟！"]
@@ -205,6 +211,9 @@
 	}, {
 		"date": "06/01",
 		"text": "<span>儿童节</span>了呢，快活的时光总是短暂，要是永远长不大该多好啊…"
+	}, {
+		"date": "07/21",
+		"text": "今天是一个<span>奇怪</span>的日子呢…要不要去<span>图书室</span>坐一坐？"
 	}, {
 		"date": "09/03",
 		"text": "<span>中国人民抗日战争胜利纪念日</span>，铭记历史、缅怀先烈、珍爱和平、开创未来。"
